@@ -1,0 +1,26 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/blue_sky"
+        android:title="Blue Sky"
+        app:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+
+    <item
+        android:id="@+id/green_grass"
+        android:title="Green Grass"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/red_rose"
+        android:title="Red Rose"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        app:showAsAction="never" />
+
+</menu>
